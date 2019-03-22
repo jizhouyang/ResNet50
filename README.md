@@ -1,7 +1,7 @@
 # ResNet50
 A 50 layers residual nerual network
 
-Identity Block
+Identity Block- 
 First component of main path: 
 - The first CONV2D has $F_1$ filters of shape (1,1) and a stride of (1,1). 
 - The first BatchNorm is normalizing the channels axis.
