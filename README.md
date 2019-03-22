@@ -1,5 +1,6 @@
 # ResNet50
-A 50 layers residual nerual network
+ResNet50 is a 50 layers residual nerual network.
+In this project, I use it to classify hand signs.
 
 The details of Identity Block are listed as follow:
 
